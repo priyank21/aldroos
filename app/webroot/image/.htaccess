@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+   RewriteEngine on
+   #RewriteRule    ^$    webroot/    [L]
+  # RewriteRule    (.*) webroot/image/$1    [L]
+ #  RewriteRule \.(gif|jpg)$ - [F]
+</IfModule>

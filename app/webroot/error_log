@@ -1,0 +1,178 @@
+[12-Jul-2017 01:34:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) in /home/priyank/public_html/doors/app/Controller/AppController.php on line 34
+[12-Jul-2017 01:35:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) in /home/priyank/public_html/doors/app/Controller/AppController.php on line 34
+[12-Jul-2017 01:38:38 America/Chicago] PHP Fatal error:  Class 'AppController' not found in /home/priyank/public_html/doors/app/Controller/PagesController.php on line 31
+[12-Jul-2017 07:21:14 America/Chicago] PHP Fatal error:  Call to a member function allow() on null in /home/priyank/public_html/doors/app/Controller/UsersController.php on line 8
+[12-Jul-2017 07:21:43 America/Chicago] PHP Fatal error:  Call to a member function allow() on null in /home/priyank/public_html/doors/app/Controller/UsersController.php on line 8
+[12-Jul-2017 07:21:45 America/Chicago] PHP Fatal error:  Call to a member function allow() on null in /home/priyank/public_html/doors/app/Controller/UsersController.php on line 8
+[12-Jul-2017 08:25:18 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/priyank/public_html/doors/app/View/Layouts/admin.ctp on line 52
+[12-Jul-2017 08:25:18 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/priyank/public_html/doors/app/View/Layouts/admin.ctp on line 52
+[12-Jul-2017 08:26:12 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/priyank/public_html/doors/app/View/Layouts/admin.ctp on line 52
+[12-Jul-2017 08:26:12 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/priyank/public_html/doors/app/View/Layouts/admin.ctp on line 52
+[12-Jul-2017 08:26:16 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/priyank/public_html/doors/app/View/Layouts/admin.ctp on line 52
+[12-Jul-2017 08:26:16 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/priyank/public_html/doors/app/View/Layouts/admin.ctp on line 52
+[17-Jul-2017 02:11:04 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/priyank/public_html/doors/app/View/Users/admin_index.ctp on line 20
+[17-Jul-2017 07:23:15 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/priyank/public_html/doors/app/Controller/UsersController.php on line 75
+[17-Jul-2017 07:23:15 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/priyank/public_html/doors/app/Controller/UsersController.php on line 75
+[17-Jul-2017 07:23:16 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/priyank/public_html/doors/app/Controller/UsersController.php on line 75
+[17-Jul-2017 07:23:16 America/Chicago] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/priyank/public_html/doors/app/Controller/UsersController.php on line 75
+[17-Jul-2017 07:35:43 America/Chicago] PHP Fatal error:  Class 'AppController' not found in /home/priyank/public_html/doors/app/Controller/UsersController.php on line 5
+[17-Jul-2017 09:32:51 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/doors/app/Controller/DashboardsController.php on line 11
+[17-Jul-2017 09:32:52 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/doors/app/Controller/DashboardsController.php on line 11
+[17-Jul-2017 09:32:52 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/doors/app/Controller/DashboardsController.php on line 11
+[17-Jul-2017 09:32:52 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/doors/app/Controller/DashboardsController.php on line 11
+[18-Jul-2017 06:08:53 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/doors/app/Controller/AppController.php on line 74
+[18-Jul-2017 06:20:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/priyank/public_html/doors/app/Controller/AppController.php on line 74
+[18-Jul-2017 06:20:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/priyank/public_html/doors/app/Controller/AppController.php on line 74
+[18-Jul-2017 06:20:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/priyank/public_html/doors/app/Controller/AppController.php on line 74
+[18-Jul-2017 06:38:18 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/doors/app/Controller/UsersController.php on line 157
+[19-Jul-2017 03:02:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting function (T_FUNCTION) in /home/priyank/public_html/doors/app/Config/email.php on line 97
+[19-Jul-2017 03:24:57 America/Chicago] PHP Fatal error:  Class 'Email' not found in /home/priyank/public_html/doors/app/Controller/UsersController.php on line 246
+[19-Jul-2017 05:14:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/priyank/public_html/doors/app/Controller/UsersController.php on line 306
+[19-Jul-2017 05:14:52 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/priyank/public_html/doors/app/Controller/UsersController.php on line 306
+[19-Jul-2017 06:54:10 America/Chicago] PHP Parse error:  syntax error, unexpected ''])) {' (T_CONSTANT_ENCAPSED_STRING) in /home/priyank/public_html/doors/app/Controller/UsersController.php on line 247
+[19-Jul-2017 06:54:36 America/Chicago] PHP Parse error:  syntax error, unexpected ''])) {' (T_CONSTANT_ENCAPSED_STRING) in /home/priyank/public_html/doors/app/Controller/UsersController.php on line 247
+[19-Jul-2017 06:54:45 America/Chicago] PHP Parse error:  syntax error, unexpected ']' in /home/priyank/public_html/doors/app/Controller/UsersController.php on line 245
+[20-Jul-2017 00:08:27 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/priyank/public_html/doors/app/Controller/UsersController.php on line 316
+[20-Jul-2017 04:29:47 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/priyank/public_html/doors/app/Controller/UsersController.php on line 359
+[20-Jul-2017 04:30:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/priyank/public_html/doors/app/Controller/UsersController.php on line 370
+[20-Jul-2017 04:31:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/priyank/public_html/doors/app/Controller/UsersController.php on line 370
+[20-Jul-2017 23:42:08 America/Chicago] PHP Fatal error:  Class name must be a valid object or a string in /home/priyank/public_html/doors/app/Controller/UsersController.php on line 392
+[21-Jul-2017 06:22:09 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/priyank/public_html/doors/app/Controller/AppController.php on line 67
+[21-Jul-2017 06:22:09 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/priyank/public_html/doors/app/Controller/AppController.php on line 67
+[21-Jul-2017 06:51:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'pr' (T_STRING), expecting function (T_FUNCTION) in /home/priyank/public_html/droos/app/Controller/AppController.php on line 109
+[22-Jul-2017 01:45:40 America/Chicago] PHP Fatal error:  Cannot redeclare HomeController::admin_samplevideos() in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 21
+[22-Jul-2017 01:45:41 America/Chicago] PHP Fatal error:  Cannot redeclare HomeController::admin_samplevideos() in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 21
+[22-Jul-2017 01:48:09 America/Chicago] PHP Fatal error:  Cannot redeclare HomeController::admin_samplevideos() in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 21
+[22-Jul-2017 01:48:10 America/Chicago] PHP Fatal error:  Cannot redeclare HomeController::admin_samplevideos() in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 21
+[22-Jul-2017 01:49:41 America/Chicago] PHP Fatal error:  Cannot redeclare HomeController::admin_samplevideos() in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 21
+[22-Jul-2017 01:50:20 America/Chicago] PHP Fatal error:  Cannot redeclare HomeController::admin_samplevideos() in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 21
+[22-Jul-2017 01:50:22 America/Chicago] PHP Fatal error:  Cannot redeclare HomeController::admin_samplevideos() in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 21
+[22-Jul-2017 02:38:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/priyank/public_html/droos/app/View/Home/admin_addsamplevidoes.ctp on line 45
+[22-Jul-2017 02:38:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/priyank/public_html/droos/app/View/Home/admin_addsamplevidoes.ctp on line 45
+[22-Jul-2017 02:42:34 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/View/Home/admin_addsamplevidoes.ctp on line 48
+[22-Jul-2017 02:42:39 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/View/Home/admin_addsamplevidoes.ctp on line 48
+[22-Jul-2017 02:42:45 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/View/Home/admin_addsamplevidoes.ctp on line 48
+[22-Jul-2017 02:44:34 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/priyank/public_html/droos/app/View/Home/admin_addsamplevidoes.ctp on line 47
+[22-Jul-2017 02:44:37 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/priyank/public_html/droos/app/View/Home/admin_addsamplevidoes.ctp on line 47
+[22-Jul-2017 04:50:21 America/Chicago] PHP Parse error:  syntax error, unexpected ''accept'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/priyank/public_html/droos/app/View/Home/admin_addsamplevidoes.ctp on line 66
+[22-Jul-2017 04:50:23 America/Chicago] PHP Parse error:  syntax error, unexpected ''accept'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/priyank/public_html/droos/app/View/Home/admin_addsamplevidoes.ctp on line 66
+[22-Jul-2017 07:17:33 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 71
+[22-Jul-2017 07:17:33 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 71
+[22-Jul-2017 07:17:36 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 71
+[22-Jul-2017 07:17:36 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 71
+[23-Jul-2017 06:15:35 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 119
+[23-Jul-2017 06:15:37 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 119
+[24-Jul-2017 00:28:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/priyank/public_html/droos/app/View/Home/admin_viewsamplevideos.ctp on line 52
+[24-Jul-2017 00:28:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/priyank/public_html/droos/app/View/Home/admin_viewsamplevideos.ctp on line 52
+[24-Jul-2017 00:28:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/priyank/public_html/droos/app/View/Home/admin_viewsamplevideos.ctp on line 52
+[24-Jul-2017 00:29:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/priyank/public_html/droos/app/View/Home/admin_viewsamplevideos.ctp on line 52
+[24-Jul-2017 01:56:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 143
+[24-Jul-2017 01:56:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 143
+[24-Jul-2017 01:56:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 143
+[24-Jul-2017 01:56:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 143
+[24-Jul-2017 02:41:35 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 159
+[24-Jul-2017 02:41:36 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 159
+[24-Jul-2017 02:41:44 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 159
+[24-Jul-2017 02:41:45 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 159
+[24-Jul-2017 02:42:03 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 159
+[24-Jul-2017 02:42:04 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 159
+[24-Jul-2017 02:42:06 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 159
+[24-Jul-2017 02:42:07 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 159
+[24-Jul-2017 04:24:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 166
+[24-Jul-2017 04:24:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 166
+[24-Jul-2017 05:02:52 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 202
+[24-Jul-2017 05:02:52 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 202
+[24-Jul-2017 05:18:39 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 14
+[24-Jul-2017 05:26:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 17
+[25-Jul-2017 01:04:10 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/priyank/public_html/droos/app/Controller/SubscriptionsController.php on line 25
+[25-Jul-2017 01:04:11 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/priyank/public_html/droos/app/Controller/SubscriptionsController.php on line 25
+[25-Jul-2017 01:47:06 America/Chicago] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ')' in /home/priyank/public_html/droos/app/Controller/SubscriptionsController.php on line 59
+[25-Jul-2017 01:47:06 America/Chicago] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ')' in /home/priyank/public_html/droos/app/Controller/SubscriptionsController.php on line 59
+[25-Jul-2017 02:18:45 America/Chicago] PHP Fatal error:  Call to a member function exists() on null in /home/priyank/public_html/droos/app/Controller/SubscriptionsController.php on line 95
+[25-Jul-2017 02:18:46 America/Chicago] PHP Fatal error:  Call to a member function exists() on null in /home/priyank/public_html/droos/app/Controller/SubscriptionsController.php on line 95
+[25-Jul-2017 09:25:49 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/UsersController.php on line 420
+[25-Jul-2017 09:25:56 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/UsersController.php on line 420
+[26-Jul-2017 01:13:55 America/Chicago] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/priyank/public_html/droos/app/Controller/UsersController.php on line 429
+[26-Jul-2017 02:35:52 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/priyank/public_html/droos/app/Controller/UsersController.php on line 442
+[26-Jul-2017 05:19:33 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/priyank/public_html/droos/app/Controller/UsersController.php on line 205
+[26-Jul-2017 05:20:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home/priyank/public_html/droos/app/Controller/UsersController.php on line 211
+[27-Jul-2017 00:31:58 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 76
+[27-Jul-2017 00:31:59 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 76
+[27-Jul-2017 02:02:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/priyank/public_html/droos/app/View/Users/admin_index.ctp on line 145
+[27-Jul-2017 02:02:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/priyank/public_html/droos/app/View/Users/admin_index.ctp on line 145
+[27-Jul-2017 02:02:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/priyank/public_html/droos/app/View/Users/admin_index.ctp on line 93
+[27-Jul-2017 05:42:39 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 130
+[27-Jul-2017 05:42:40 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 130
+[27-Jul-2017 05:44:27 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 130
+[27-Jul-2017 05:44:28 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 130
+[27-Jul-2017 05:49:40 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 129
+[27-Jul-2017 05:49:40 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 129
+[27-Jul-2017 06:45:34 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 148
+[27-Jul-2017 06:45:35 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 148
+[27-Jul-2017 06:45:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 148
+[27-Jul-2017 06:45:37 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 148
+[28-Jul-2017 01:01:45 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/priyank/public_html/droos/app/Controller/TestimonialsController.php on line 34
+[28-Jul-2017 01:01:45 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/priyank/public_html/droos/app/Controller/TestimonialsController.php on line 34
+[28-Jul-2017 02:04:25 America/Chicago] PHP Parse error:  syntax error, unexpected ']', expecting ')' in /home/priyank/public_html/droos/app/View/Testimonials/admin_index.ctp on line 67
+[28-Jul-2017 04:58:50 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/priyank/public_html/droos/app/Controller/UsersController.php on line 391
+[28-Jul-2017 05:24:53 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/priyank/public_html/droos/app/View/Users/signup.ctp on line 55
+[28-Jul-2017 05:24:53 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/priyank/public_html/droos/app/View/Users/signup.ctp on line 55
+[28-Jul-2017 06:05:32 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/priyank/public_html/droos/app/Controller/UsersController.php on line 375
+[28-Jul-2017 07:05:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home/priyank/public_html/droos/app/Controller/AppController.php on line 114
+[28-Jul-2017 07:23:35 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home/priyank/public_html/droos/app/View/Home/index.ctp on line 36
+[31-Jul-2017 03:24:05 America/Chicago] PHP Fatal error:  Call to undefined function data() in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 295
+[31-Jul-2017 03:25:11 America/Chicago] PHP Fatal error:  Call to undefined function p() in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 295
+[31-Jul-2017 06:31:23 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 308
+[31-Jul-2017 08:26:24 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 331
+[31-Jul-2017 08:26:55 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 331
+[31-Jul-2017 08:27:08 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 331
+[31-Jul-2017 08:27:29 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 332
+[31-Jul-2017 08:39:59 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 332
+[31-Jul-2017 08:41:01 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 331
+[31-Jul-2017 08:41:03 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 331
+[02-Aug-2017 02:37:54 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/priyank/public_html/droos/app/View/Home/course_samplevideo.ctp on line 102
+[02-Aug-2017 07:03:55 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 449
+[03-Aug-2017 06:42:35 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/priyank/public_html/droos/app/Controller/UsersController.php on line 499
+[03-Aug-2017 06:44:03 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/priyank/public_html/droos/app/Controller/UsersController.php on line 499
+[03-Aug-2017 07:08:31 America/Chicago] PHP Parse error:  syntax error, unexpected ''subscripti' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/priyank/public_html/droos/app/View/Users/subscriptionpage.ctp on line 28
+[04-Aug-2017 01:03:55 America/Chicago] PHP Fatal error:  Call to a member function getInsertID() on null in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 46
+[04-Aug-2017 01:22:48 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 54
+[04-Aug-2017 02:27:55 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 109
+[04-Aug-2017 02:29:21 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 109
+[04-Aug-2017 02:29:25 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 109
+[04-Aug-2017 02:29:28 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 109
+[04-Aug-2017 02:29:31 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 109
+[04-Aug-2017 02:29:33 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 109
+[04-Aug-2017 02:29:33 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 109
+[04-Aug-2017 02:29:33 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 109
+[04-Aug-2017 02:29:33 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 109
+[04-Aug-2017 02:29:33 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 109
+[04-Aug-2017 02:29:33 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 109
+[04-Aug-2017 02:29:33 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 109
+[04-Aug-2017 02:29:35 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 109
+[04-Aug-2017 04:36:19 America/Chicago] PHP Fatal error:  Call to a member function updateAll() on null in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 79
+[04-Aug-2017 04:36:39 America/Chicago] PHP Fatal error:  Call to a member function updateAll() on null in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 80
+[04-Aug-2017 05:47:45 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 489
+[04-Aug-2017 05:49:12 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 489
+[04-Aug-2017 05:49:34 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 495
+[04-Aug-2017 05:49:36 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 495
+[04-Aug-2017 05:49:42 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 495
+[04-Aug-2017 06:55:32 America/Chicago] PHP Fatal error:  Class 'AppController' not found in /home/priyank/public_html/droos/app/Controller/CoursesController.php on line 5
+[05-Aug-2017 08:07:59 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 24
+[08-Aug-2017 06:40:47 America/Chicago] PHP Fatal error:  Class 'AppController' not found in /home/priyank/public_html/droos/app/Controller/HomeController.php on line 5
+[08-Aug-2017 07:51:14 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/priyank/public_html/droos/app/View/Users/subscriptionpage.ctp on line 67
+[08-Aug-2017 07:51:17 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/priyank/public_html/droos/app/View/Users/subscriptionpage.ctp on line 67
+[08-Aug-2017 08:17:34 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/priyank/public_html/droos/app/View/Users/subscriptionpage.ctp on line 4
+[08-Aug-2017 08:17:36 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/priyank/public_html/droos/app/View/Users/subscriptionpage.ctp on line 4
+[05-Sep-2017 05:57:44 America/Chicago] PHP Parse error:  syntax error, unexpected ''users/cont' (T_ENCAPSED_AND_WHITESPACE) in /home/priyank/public_html/droos/app/View/Elements/Website/footer.ctp on line 33
+[05-Sep-2017 05:57:44 America/Chicago] PHP Parse error:  syntax error, unexpected ''users/cont' (T_ENCAPSED_AND_WHITESPACE) in /home/priyank/public_html/droos/app/View/Elements/Website/footer.ctp on line 33
+[05-Sep-2017 05:57:49 America/Chicago] PHP Parse error:  syntax error, unexpected ''users/cont' (T_ENCAPSED_AND_WHITESPACE) in /home/priyank/public_html/droos/app/View/Elements/Website/footer.ctp on line 33
+[05-Sep-2017 05:57:49 America/Chicago] PHP Parse error:  syntax error, unexpected ''users/cont' (T_ENCAPSED_AND_WHITESPACE) in /home/priyank/public_html/droos/app/View/Elements/Website/footer.ctp on line 33
+[07-Sep-2017 04:59:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/priyank/public_html/droos/app/View/Professors/admin_view.ctp on line 37
+[07-Sep-2017 04:59:45 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/priyank/public_html/droos/app/View/Professors/admin_view.ctp on line 37
+[08-Sep-2017 01:58:52 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/priyank/public_html/droos/app/Controller/UsersController.php on line 560
+[08-Sep-2017 01:59:46 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/priyank/public_html/droos/app/Controller/UsersController.php on line 560
+[08-Sep-2017 02:00:16 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/priyank/public_html/droos/app/Controller/UsersController.php on line 560
+[08-Sep-2017 03:05:58 America/Chicago] PHP Fatal error:  Undefined constant 'n' in /home/priyank/public_html/droos/app/Controller/UsersController.php on line 564
+[08-Sep-2017 03:06:49 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home/priyank/public_html/droos/app/Controller/UsersController.php on line 564
+[08-Sep-2017 03:26:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/priyank/public_html/droos/app/Controller/UsersController.php on line 563

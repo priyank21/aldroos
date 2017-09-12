@@ -1,0 +1,29 @@
+[09-Aug-2017 05:26:01 America/Chicago] PHP Parse error:  syntax error, unexpected '$DateEnd' (T_VARIABLE), expecting ',' or ';' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 15
+[09-Aug-2017 05:27:01 America/Chicago] PHP Parse error:  syntax error, unexpected '$DateEnd' (T_VARIABLE), expecting ',' or ';' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 15
+[09-Aug-2017 05:28:01 America/Chicago] PHP Parse error:  syntax error, unexpected '$DateEnd' (T_VARIABLE), expecting ',' or ';' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 15
+[09-Aug-2017 05:29:01 America/Chicago] PHP Parse error:  syntax error, unexpected '$DateEnd' (T_VARIABLE), expecting ',' or ';' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 15
+[09-Aug-2017 05:30:02 America/Chicago] PHP Parse error:  syntax error, unexpected '$DateEnd' (T_VARIABLE), expecting ',' or ';' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 15
+[09-Aug-2017 05:35:01 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 22
+[09-Aug-2017 05:36:02 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 22
+[09-Aug-2017 05:37:01 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 22
+[09-Aug-2017 05:38:01 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 22
+[09-Aug-2017 05:39:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 26
+[09-Aug-2017 05:40:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 26
+[09-Aug-2017 05:41:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 26
+[09-Aug-2017 05:42:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 26
+[09-Aug-2017 05:43:02 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 27
+[09-Aug-2017 05:44:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 27
+[09-Aug-2017 05:45:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 27
+[09-Aug-2017 05:46:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 27
+[09-Aug-2017 05:47:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 27
+[09-Aug-2017 05:48:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 27
+[09-Aug-2017 05:49:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 27
+[09-Aug-2017 05:50:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 27
+[09-Aug-2017 05:51:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 27
+[09-Aug-2017 05:52:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 27
+[09-Aug-2017 05:53:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 27
+[09-Aug-2017 05:54:02 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 27
+[09-Aug-2017 05:55:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 27
+[09-Aug-2017 05:56:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 27
+[09-Aug-2017 05:57:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 27
+[09-Aug-2017 05:58:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/priyank/public_html/droos/app/Console/Command/SubscriptionShell.php on line 27
