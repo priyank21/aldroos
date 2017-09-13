@@ -152,6 +152,15 @@ $(document).ready(function(){
   var baseurl=<?php echo json_encode(FULL_BASE_URL . $this->webroot); ?>;
     $("#formoid").submit(function(event) {
       /* stop form from submitting normally */
+      
+      // var etop = $('.search_banner').offset().top;
+      // $(window).scrollTop(etop);
+
+      var etop = $('.search_banner').offset().top;
+      $('html, body').animate({
+          scrollTop: etop
+        }, 1000);
+
       event.preventDefault();
       var myvar='';
       var $form = $( this ),
@@ -192,6 +201,8 @@ $.ajax({
           myvar+='</div>';
         myvar+='</div>';
                     $('#showsearch').append(myvar);
+
+
                     
                 });
                     var datar=" data found";
